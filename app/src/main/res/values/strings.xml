@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gloomy</string>
+    <string name="today_label">Today, June 3</string>
+    <string name="action_settings">Settings</string>
+</resources>
